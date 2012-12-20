@@ -1,0 +1,84 @@
+<chapter>
+ <title>Kvällssagor för gamla barn</title>
+ <copyright>2004, 2005</copyright>
+ <author>Egil Möller</author>
+ <language>swedish</language>
+ <chapter>
+
+  <chapter>Det var en gång en gammal blind gubbe som varje kväll satt
+  uppkrupen intill eldstaden i gästgivargården och beättade sagor för
+  vem som nu råkade komma förbi. Men sagorna han berättade var inte
+  som andra sagor - som alla blinda hade han tvingats föreställa sig
+  världen runt sig, och det och hans ålder hade givit honom en säregen
+  bild av världen, och från denna hans inre värld kom
+  sagorna.</chapter>
+
+  <chapter>Det var sagor utan ärofulla riddare, utan fagra damer som
+  väntade på sina räddare. Det var sagor fyllda av människor som helt
+  liknade honom själv till själ och hjärta.</chapter>
+
+  <chapter>Nog visste han att hans problem och hans hjärtesorger var
+  som sandkorn i öknen jämfört med det lidande som fanns i världen,
+  svält massmord, att hans livsöde i jämförelse var en patetisk
+  lyxkatastof.  Men han kunde ändå inte låta bli att, där han satt
+  uppkrupen vid elden, berätta om dess detaljer:</chapter>
+
+ </chapter>
+
+ <include><document>../../Poetry/Poetry.xml</document><id>skaemt</id></include>
+ <include><document>../Love/Love.xml</document><id>farbrodern</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>vittne</id></include>
+ <include><document>../Love/Love.xml</document><id>faageln</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>trollkonungens-son</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>bergatrollet</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>de-andra</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>knyttet</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>en-liten-vampyr</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>en-liten-prins</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>riktiga-maen</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>drottning</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>jaernflickan</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>vael-kommen</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>blodselva</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>gud-o-djaevul</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>draken-vaknar</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>the-dragon-slaeyer</id></include>
+ <include><document>../../Poetry/Poetry.xml</document><id>smaa-glada-monster</id></include>
+
+ <chapter>
+  <title>Sagan om den blinda gubben</title>
+
+  <quote>Det var en gång en gammal blind gubbe som varje kväll satt
+  uppkrupen intill eldstaden i gästgivargården och beättade sagor för
+  vem som nu råkade komma förbi...</quote>
+
+  <chapter>När gubben kommit sä här långt, brukade de flesta redan ha
+  somnat, och de få som fortfarande var vakna, för fulla för att höra
+  något av vad gubben sa. Denna sista saga, brukade han mumla, knappt
+  hörbart, in mot de knastande vedträna i spisen.</chapter>
+
+ </chapter>
+
+ <chapter>
+  <title>Om diktsamlingen</title>
+
+  <chapter>This text is free software; you can redistribute it
+  and/or modify it under the terms of the GNU General Public License
+  as published by the Free Software Foundation; either version 2 of
+  the License, or (at your option) any later version.</chapter>
+
+  <chapter>This text is distributed in the hope that it will be
+  useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+  of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+  General Public License for more details.</chapter>
+
+  <chapter>You should have received a copy of the GNU General Public
+  License along with this program; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+  USA</chapter>
+
+  <chapter>The sourcecode for this text is available from the web at
+  http://redhog.org/Projects/Literature/Poetry/Sagor.tgz.</chapter>
+
+ </chapter>
+</chapter>

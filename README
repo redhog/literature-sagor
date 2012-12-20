@@ -1,0 +1,5 @@
+Download https://github.com/redhog/xmlpoetry and install its dependencies
+
+In the current directory, run $PATH_TO_XMLPOETRY/xmlpoetry/xmlmake
+
+LICENSE: GPL v. 3
